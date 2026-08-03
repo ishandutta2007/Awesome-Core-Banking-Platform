@@ -8,14 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Temenos](https://www.temenos.com/)** (Temenos Transact) — One of the most widely deployed core banking platforms globally, covering retail, corporate, and private banking.
-- **[Infosys Finacle](https://www.infosys.com/finacle/)** — Enterprise core banking solution used by large banks worldwide.
-- **[Mambu](https://www.mambu.com/)** — Cloud-native, composable core banking platform popular with neobanks, fintechs, and digital lenders.
-- **[Thought Machine](https://www.thoughtmachine.net/)** (Vault Core) — Cloud-native core built around smart contracts for highly configurable product logic.
-- **[Oracle FLEXCUBE](https://www.oracle.com/industries/financial-services/flexcube/)** — Established enterprise core banking suite.
-- **[Finastra Essence](https://www.finastra.com/)** — Core banking platform within Finastra’s broader banking technology portfolio.
-- **[10x Banking](https://www.10xbanking.com/)** — Cloud-native “SuperCore” platform designed for tier-1 scale and real-time operations.
-- **[Nymbus](https://www.nymbus.com/)**, **[Tuum](https://tuum.com/)**, **[SDK.finance](https://sdk.finance/)** — Modern cores and banking platforms used by digital banks, fintechs, and embedded finance providers (SDK.finance also offers source-code licensing options).
+| Platform | Description | Pricing | Free Tier / Limit |
+|---|---|---|---|
+| **[Temenos](https://www.temenos.com/)** (Temenos Transact) | One of the most widely deployed core banking platforms globally, covering retail, corporate, and private banking. | Custom / Contact Sales | None |
+| **[Infosys Finacle](https://www.infosys.com/finacle/)** | Enterprise core banking solution used by large banks worldwide. | Custom / Contact Sales | None |
+| **[Mambu](https://www.mambu.com/)** | Cloud-native, composable core banking platform popular with neobanks, fintechs, and digital lenders. | Custom / Contact Sales | None |
+| **[Thought Machine](https://www.thoughtmachine.net/)** (Vault Core) | Cloud-native core built around smart contracts for highly configurable product logic. | Custom / Contact Sales | None |
+| **[Oracle FLEXCUBE](https://www.oracle.com/industries/financial-services/flexcube/)** | Established enterprise core banking suite. | Custom / Contact Sales | None |
+| **[Finastra Essence](https://www.finastra.com/)** | Core banking platform within Finastra’s broader banking technology portfolio. | Custom / Contact Sales | None |
+| **[10x Banking](https://www.10xbanking.com/)** | Cloud-native “SuperCore” platform designed for tier-1 scale and real-time operations. | Custom / Contact Sales | None |
+| **[Nymbus](https://www.nymbus.com/)** | Modern cores and banking platforms used by digital banks, fintechs, and embedded finance providers. | Custom / Contact Sales | None |
+| **[Tuum](https://tuum.com/)** | Modern cores and banking platforms used by digital banks, fintechs, and embedded finance providers. | Custom / Contact Sales | None |
+| **[SDK.finance](https://sdk.finance/)** | Modern cores and banking platforms used by digital banks, fintechs, and embedded finance providers (also offers source-code licensing options). | Starts at ~$900/month (SaaS) | None |
 
 ## 🔓 Open-Source Software
 
