@@ -4,7 +4,7 @@
 
 # Awesome-Core-Banking-Platform
 
-## Similar Projects to Core Banking Platforms
+## 🔍 Similar Projects to Core Banking Platforms
 
 **Core Banking Platforms** form the central system of record for banks and fintechs — managing customer accounts, deposits, loans, payments, ledgers, interest calculation, and product configuration. Leading commercial platforms include Temenos (Transact), Infosys Finacle, Mambu, Thought Machine (Vault Core), FIS Profile, Oracle FLEXCUBE, Finastra Essence, 10x Banking, Nymbus, Tuum, and SDK.finance.
 
@@ -27,18 +27,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software
 
-### Leading Open-Source Core Banking Systems
+### 🌟 Leading Open-Source Core Banking Systems
 - **[Apache Fineract](https://fineract.apache.org/)** [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) — The most established open-source core banking platform. Designed for digital financial services, microfinance, and inclusive banking. Supports loans, savings, shares, accounting, KYC workflows, and is actively maintained by the Apache Software Foundation. Widely deployed in production by financial institutions around the world.
 - **[OpenCBS / OpenCBS-Cloud](https://github.com/OpenCBS)** [![GitHub stars](https://img.shields.io/github/stars/OpenCBS/OpenCBS?style=social&color=white)](https://github.com/OpenCBS/OpenCBS/stargazers) — Open-source core banking system historically popular with microfinance institutions and smaller banks. Offers client, loan, savings, and accounting management with a focus on usability and faster deployment.
 - **[FinAegis](https://finaegis.org/)** / [core-banking-prototype-laravel](https://github.com/FinAegis/core-banking-prototype-laravel) [![GitHub stars](https://img.shields.io/github/stars/FinAegis/core-banking-prototype-laravel?style=social&color=white)](https://github.com/FinAegis/core-banking-prototype-laravel/stargazers) — Modern open-source core banking infrastructure built with Laravel, domain-driven design, event sourcing, and CQRS. Includes dozens of bounded contexts covering accounts, payments, lending, compliance, multi-asset support, and more.
 - **CrystalBank** — Event-sourced open-source core banking platform emphasizing immutable audit trails, compliance workflows, and modern payment rails.
 
-### Related Open-Source Banking & Ledger Projects
+### 🔗 Related Open-Source Banking & Ledger Projects
 - **Project Mercury** (open-accelerators) — Reference implementation exploring modular digital bank modernization using open standards (BIAN) and open-source components.
 - Open-source ledger and accounting engines (double-entry, multi-currency, event-sourced) that serve as the foundation for custom core banking builds.
 - Community projects focused on deposit accounts, PSD2-style open banking interfaces, and lightweight core services.
 
-### Typical Open-Source Approach
+### 💡 Typical Open-Source Approach
 1. **Core system of record** — Apache Fineract or FinAegis
 2. **Product configuration & APIs** — Extend via the platform’s plugin/API model or custom microservices
 3. **Payments & compliance** — Integrate open-source or commercial payment rails and RegTech modules
@@ -49,11 +49,11 @@ These platforms give institutions complete ownership of the codebase, eliminate 
 
 ---
 
-**How to contribute**  
+🤝 **How to contribute**  
 Fork this repository, add a new project (with link + short description + category), and open a pull request.  
 Prefer actively maintained open-source projects related to core banking, digital financial services, ledgers, or banking-as-a-service infrastructure.
 
-**License**  
+📝 **License**  
 This list is public domain / CC0. Feel free to copy into your own awesome list or README.
 
 Star the projects you find useful — open core banking infrastructure helps democratize access to modern financial technology! 🏦
