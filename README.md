@@ -4,6 +4,10 @@
 
 # Awesome-Core-Banking-Platform
 
+<div align="center">
+  <p><strong>A comprehensive, SEO-optimized, and curated collection of the best Core Banking Platforms, Open-Source Banking Systems, and SaaS Financial Technology APIs. Discover scalable, modern alternatives to Temenos, Mambu, Thought Machine, and more!</strong></p>
+</div>
+
 ## 🔍 Similar Projects to Core Banking Platforms
 
 **Core Banking Platforms** form the central system of record for banks and fintechs — managing customer accounts, deposits, loans, payments, ledgers, interest calculation, and product configuration. Leading commercial platforms include Temenos (Transact), Infosys Finacle, Mambu, Thought Machine (Vault Core), FIS Profile, Oracle FLEXCUBE, Finastra Essence, 10x Banking, Nymbus, Tuum, and SDK.finance.
