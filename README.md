@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Core Banking Banner" />
+</div>
+
 # Awesome-Core-Banking-Platform
 
 ## Similar Projects to Core Banking Platforms

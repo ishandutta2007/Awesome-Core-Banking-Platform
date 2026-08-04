@@ -1,0 +1,52 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a192f" />
+      <stop offset="100%" stop-color="#112240" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#64ffda" />
+      <stop offset="100%" stop-color="#00b4d8" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="800" height="200" fill="url(#bgGrad)" rx="15" />
+  
+  <!-- Dynamic floating circles representing nodes in a banking network -->
+  <g fill="#64ffda" opacity="0.6">
+    <circle cx="100" cy="50" r="4">
+      <animate attributeName="cy" values="50;30;50" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="700" cy="150" r="6">
+      <animate attributeName="cy" values="150;170;150" dur="5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="50" cy="150" r="3">
+      <animate attributeName="cx" values="50;70;50" dur="3.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="650" cy="40" r="5">
+      <animate attributeName="cx" values="650;620;650" dur="6s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Network lines -->
+  <g stroke="#64ffda" stroke-width="1.5" opacity="0.2">
+    <line x1="100" y1="50" x2="50" y2="150">
+       <animate attributeName="y1" values="50;30;50" dur="4s" repeatCount="indefinite" />
+       <animate attributeName="x2" values="50;70;50" dur="3.5s" repeatCount="indefinite" />
+    </line>
+    <line x1="700" y1="150" x2="650" y2="40">
+       <animate attributeName="y1" values="150;170;150" dur="5s" repeatCount="indefinite" />
+       <animate attributeName="x2" values="650;620;650" dur="6s" repeatCount="indefinite" />
+    </line>
+  </g>
+
+  <!-- Text -->
+  <text x="400" y="90" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-size="38" font-weight="900" text-anchor="middle" fill="url(#textGrad)" filter="url(#glow)">Awesome Core Banking</text>
+  <text x="400" y="130" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-size="18" font-weight="400" text-anchor="middle" fill="#ccd6f6">A curated list of modern banking platforms and OSS</text>
+</svg>
